@@ -1,7 +1,7 @@
 import random
 
 strings = ["string1", "string2", "string3", "string4", "string5", "string6", "string7", "string8", "string9", "string10"]
-probabilities = [0.1, 0.2, 0.05, 0.15, 0.0, 0.11, 0.07, 0.04, 0.00, 0.12, 0.16]
+probabilities = [0.1, 0.2, 0.05, 0.15, 0.11, 0.07, 0.04, 0.00, 0.12, 0.16]
 
 # Create a list of cumulative probabilities
 cumulative_probabilities = []
